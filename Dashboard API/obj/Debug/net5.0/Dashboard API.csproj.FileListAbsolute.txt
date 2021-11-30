@@ -1,0 +1,60 @@
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\appsettings.json
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Dashboard API.exe
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Dashboard API.deps.json
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Dashboard API.runtimeconfig.json
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Dashboard API.runtimeconfig.dev.json
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Dashboard API.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\ref\Dashboard API.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Dashboard API.pdb
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\Dashboard API.csproj.AssemblyReference.cache
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\Dashboard API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\Dashboard API.AssemblyInfoInputs.cache
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\Dashboard API.AssemblyInfo.cs
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\Dashboard API.csproj.CoreCompileInputs.cache
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\Dashboard API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\Dashboard API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\staticwebassets\Dashboard API.StaticWebAssets.Manifest.cache
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\staticwebassets\Dashboard API.StaticWebAssets.xml
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\scopedcss\bundle\Dashboard API.styles.css
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\Dashboard API.RazorTargetAssemblyInfo.cache
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\Dashboard API.csproj.CopyComplete
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\Dashboard API.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\ref\Dashboard API.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\Dashboard API.pdb
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\obj\Debug\net5.0\Dashboard API.genruntimeconfig.cache
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\AWSSDK.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\hcarp\Documents\Epitech\3A\B-DEV-500-BDX-5-1-dashboard-quentin.nicolas\Dashboard API\Dashboard API\bin\Debug\net5.0\ZstdNet.dll
