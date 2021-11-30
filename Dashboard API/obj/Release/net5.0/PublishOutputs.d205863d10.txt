@@ -1,0 +1,44 @@
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Dashboard API.exe
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\appsettings.json
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\publish\wwwroot\vercel.json
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\publish/wwwroot/vercel.json
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Dashboard API.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Dashboard API.deps.json
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Dashboard API.runtimeconfig.json
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Dashboard API.pdb
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\AWSSDK.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\AWSSDK.Core.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\BouncyCastle.Crypto.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\EntityFramework.SqlServer.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\EntityFramework.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Google.Protobuf.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\K4os.Compression.LZ4.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\K4os.Compression.LZ4.Streams.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\K4os.Hash.xxHash.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\MySql.Data.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Ubiety.Dns.Core.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\ZstdNet.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Newtonsoft.Json.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Newtonsoft.Json.Bson.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\System.CodeDom.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\System.Configuration.ConfigurationManager.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\System.Data.SqlClient.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\System.IO.Pipelines.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hcarp\Documents\Epitech\DashboardApi\Dashboard API\bin\Release\net5.0\publish\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
